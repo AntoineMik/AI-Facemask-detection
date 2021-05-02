@@ -5,4 +5,5 @@ The goal is to use this dataset to predict whether someone is wearing a mask and
 Application of this includes face unlocks while wearing a mask.  
 Target: Computer Vision  
 Features: Face with a mask, Face without a mask  
-Dataset source:  Face Mask Lite Dataset | Kaggle
+Dataset source:  https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset
+
