@@ -131,3 +131,6 @@ dmypy.json
 
 # Files
 data
+
+# Environement files
+notebook_env.db
