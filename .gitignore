@@ -134,3 +134,6 @@ data
 
 # Environement files
 notebook_env.db
+
+# Model saving file
+facemaskmodel.pth
