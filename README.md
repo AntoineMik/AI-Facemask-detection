@@ -1,4 +1,4 @@
-# Facemask_id
+# Facemask detection using `Convolutional Neural Network` in `Python`
 
 The `facemask lite` dataset on `Kaggle` contains `GAN-2` generated images of people with masks and without masks. Using that dataset, we trained a `Convolutional Neural Network` (CNN) to detect when someone is wearing a mask.
 <br>
