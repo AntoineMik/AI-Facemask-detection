@@ -137,3 +137,5 @@ notebook_env.db
 
 # Model saving file
 facemaskmodel.pth
+
+save_at_1.h5
