@@ -7,10 +7,6 @@ Features: Face with a mask, Face without a mask
 <br> 
 Data Source:
 <br>
-author = Prasoon Kottarathil, title = Face Mask Lite Dataset, year = 2020, 
-<br>
-publisher = kaggle, journal = Kaggle Data, 
-<br>
 https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset
 <br>
 <br>
